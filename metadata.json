@@ -1,0 +1,6 @@
+{
+  "name": "Namaste Campus Bus",
+  "description": "Smart College Bus Tracking application for students and drivers with live GPS tracking, real-time CCTV surveillance access, route schedules, crowd estimation, and arrival alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
